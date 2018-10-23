@@ -2,7 +2,7 @@
 -- Alter email table1 and add constraint foreign keys of people and email_type table.
 -- -----------------------------------------------------
 
-alter table email add constraint fk_person_email
+alter table email1 add constraint fk_person_email
   foreign key (person_id) references people(person_id);
 
 alter table email add constraint fk_email_type
