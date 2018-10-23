@@ -17,7 +17,7 @@ create view people_view as (
     city,
     state,
     zip_code
-  from people
+  from people1
 );
 
 DELIMITER //
