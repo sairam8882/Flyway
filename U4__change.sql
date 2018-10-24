@@ -1,1 +1,1 @@
-SELECT * FROM FlywayTestVal;
+SELECT * FROM FlywayTestVal1;
