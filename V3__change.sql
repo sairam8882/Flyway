@@ -1,4 +1,4 @@
-CREATE TABLE FlywayTestVal (
+CREATE TABLE FlywayTestVal1 (
     PersonID int,
     LastName varchar(255),
     FirstName varchar(255),
